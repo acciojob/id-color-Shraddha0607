@@ -2,6 +2,9 @@
 /* *{
 	border-width:1px;
 } */
+p{
+	border-width:1px;
+}
 #yellow{
 	/* border-width:1px; */
 	background-color:yellow;
@@ -17,6 +20,4 @@
 	background-color:green;
 	border-color:yellow;
 }
-p{
-	border-width:1px;
-}
+

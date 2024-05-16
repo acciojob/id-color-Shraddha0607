@@ -2,17 +2,17 @@
 /* *{
 	border-width:1px;
 } */
-.yellow{
+#yellow{
 	/* border-width:1px; */
-	background:yellow;
+	background-color:yellow;
 	border-color:green;
 }
-.red{
+#red{
 	/* border-width:1px; */
 	background-color:red;
 	border-color:black;
 }
-.green{
+#green{
 	
 	background-color:green;
 	border-color:yellow;

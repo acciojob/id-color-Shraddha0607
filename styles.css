@@ -4,7 +4,7 @@
 } */
 .yellow{
 	/* border-width:1px; */
-	background-color:yellow;
+	background:yellow;
 	border-color:green;
 }
 .red{
